@@ -2,7 +2,8 @@
 A basic accountAbstractionImplementation thats able to link a users abstractedAccounts between multiple chains. 
 
 
-
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
 multiChain accountAbstraction implementation.
 One abstractedAccount at its originalChain is able to manipulate its linked otherChain abstractedAccount assets, example:
 
@@ -13,7 +14,7 @@ The end result of the balances of the users abstractedAccounts are:
 - Polygon; 0
 - Optimism; 20
 And the optimism EOA has received 100 usdc without even knowing that transfer was done through a multiChain process.
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-
-
-The project is been built with solidity, react and ethersJs stack on goerliEthereum, sepoliaEthereum, goerliOptimism, baseTestnet, zoraTestnet and modeTestnet thanks to chainlinkCcip, hyperlane and layerZero multiChain infraestructure.
+The project is being built with solidity, reactJs and ethersJs stack on goerliEthereum, sepoliaEthereum, goerliOptimism, baseTestnet, zoraTestnet and modeTestnet thanks to chainlinkCcip, hyperlane and layerZero multiChain infraestructure.
