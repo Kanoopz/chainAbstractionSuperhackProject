@@ -27,9 +27,12 @@ The project is being built with solidity, reactJs and ethersJs stack on goerliEt
 Project deployed on:
 
 optimismGoerli:
-
+  ccipChainAbstractionImplementation:
+    0xccb7EcF07967481Ad543Fff31d35F0BA7d455b1F
 baseGoerli:
 
 mumbai:
+  ccipChainAbstractionImplementation:
+  
 
 
