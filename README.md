@@ -19,7 +19,7 @@ And the optimism EOA has received 100 usdc without even knowing that transfer wa
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-The project is being built with solidity, reactJs and ethersJs stack on goerliEthereum, sepoliaEthereum, goerliOptimism, baseTestnet, zoraTestnet and modeTestnet thanks to chainlinkCcip, hyperlane and layerZero multiChain infraestructure.
+The project is being built with solidity, reactJs and ethersJs stack on goerliEthereum, sepoliaEthereum, goerliOptimism, baseTestnet, zoraTestnet and modeTestnet thanks to chainlinkCcip and layerZero multiChain infraestructure.
 
 
 ![image](https://github.com/Kanoopz/chainAbstractionSuperhackProject/assets/43384993/58665289-7e2e-4ecd-ae24-74f4432c24fb)
