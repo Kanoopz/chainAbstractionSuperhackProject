@@ -27,6 +27,9 @@ The project is being built with solidity, reactJs and ethersJs stack on goerliEt
 Project deployed on:
 
 optimismGoerli:
+
 baseGoerli:
+
 mumbai:
+
 
