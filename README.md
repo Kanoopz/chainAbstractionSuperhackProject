@@ -26,7 +26,7 @@ The project is being built with solidity, reactJs and ethersJs stack on goerliEt
 
 Project deployed on:
 
-Sepolia:
+Sepolia:  ------------------------------------------------------------------------------------------------
 
 
   ccipChainAbstractionImplementation:
@@ -35,7 +35,7 @@ Sepolia:
     0x8B9C033bE17B2EDfE3937c9D826b0bF1efB16784
 
     
-optimismGoerli:
+optimismGoerli:  ------------------------------------------------------------------------------------------------
 
 
   ccipChainAbstractionImplementation:
@@ -44,7 +44,7 @@ optimismGoerli:
     0xccb7EcF07967481Ad543Fff31d35F0BA7d455b1F
 
     
-baseGoerli:
+baseGoerli:  ------------------------------------------------------------------------------------------------
 
 
   
