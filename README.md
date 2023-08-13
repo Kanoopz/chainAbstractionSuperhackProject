@@ -21,34 +21,6 @@ And the optimism EOA has received 100 usdc without even knowing that transfer wa
 
 The project is being built with solidity, reactJs and ethersJs stack on goerliEthereum, sepoliaEthereum, goerliOptimism, baseTestnet, zoraTestnet and modeTestnet thanks to chainlinkCcip, hyperlane and layerZero multiChain infraestructure.
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-Project deployed on:
-
-Sepolia:  ------------------------------------------------------------------------------------------------
-
-
-  ccipChainAbstractionImplementation:
-
-  
-    0x8B9C033bE17B2EDfE3937c9D826b0bF1efB16784
-
-    
-optimismGoerli:  ------------------------------------------------------------------------------------------------
-
-
-  ccipChainAbstractionImplementation:
-
-  
-    0xccb7EcF07967481Ad543Fff31d35F0BA7d455b1F
-
-  layerZeroChainAbstractionImplementation:
-
-  
-    
-baseGoerli:  ------------------------------------------------------------------------------------------------
-
 
   
   
