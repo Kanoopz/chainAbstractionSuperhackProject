@@ -26,31 +26,83 @@ The project is being built with solidity, reactJs and ethersJs stack on goerliEt
 
 
 ccipImplementation:
+
+
 	Sepolia:
+
+ 
 		- 0x0542718f7215b442dE75A5aC5e25E3c9d8E1Bf36
+
+  
 	goerliOp:
+
+ 
 		- 0x93A8fE00B91829763A797E933686318e89401c46
+
+  
 layerZeroImplementationWithWorldId:
+
+
 	goerliOp:
+
+ 
 		- lzErc20:
+
+  
 			0x5154440E0c8711264F543A4431C8657fF44A7C40
+
+   
 		- abstractedAccount:
+
+  
 			0x82517de60761A2D843A39Ae1d499a8eA6a2D1C48
+
+   
 	goerliBase:
+
+ 
 		- lzErc20:
+
+  
 			0x93A8fE00B91829763A797E933686318e89401c46
+
+   
 		- abstractedAccount:
+
+  
 			0x44bA2D56A98176533E14167Be30F3e6a8B721fb8
+
+   
 	modeTestnet:
+
+ 
 		- lzErc20:
+
+  
 			0x93A8fE00B91829763A797E933686318e89401c46
+
+   
 		-abstractedAccount:
+
+  
 			0x44bA2D56A98176533E14167Be30F3e6a8B721fb8
+
+   
 	zoraTestnet:
+
+ 
 		- lzErc20:
+
+  
 			0x39978200DF7Ff5C64E8d8E2CB3F2314226A0D557
+
+   
 		- abstractedaccount:
+
+  
 			0x82517de60761A2D843A39Ae1d499a8eA6a2D1C48
+
+   
 
 
 
