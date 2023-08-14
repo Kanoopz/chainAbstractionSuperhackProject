@@ -30,8 +30,10 @@ ccipImplementation:
 
 	Sepolia:
 
+ 		- abstractedAccount:
+
  
-		- 0x0542718f7215b442dE75A5aC5e25E3c9d8E1Bf36
+			0x0542718f7215b442dE75A5aC5e25E3c9d8E1Bf36
 
   
 	goerliOp:
@@ -48,8 +50,11 @@ layerZeroImplementationWithWorldId:
  
 		- lzErc20:
 
-  
-			0x5154440E0c8711264F543A4431C8657fF44A7C40
+
+  			- abstractedAccount:
+
+     
+				0x5154440E0c8711264F543A4431C8657fF44A7C40
 
    
 		- abstractedAccount:
