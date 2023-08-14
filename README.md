@@ -39,7 +39,10 @@ ccipImplementation:
 	goerliOp:
 
  
-		- 0x93A8fE00B91829763A797E933686318e89401c46
+ 		- abstractedAccount:
+
+ 
+			0x93A8fE00B91829763A797E933686318e89401c46
 
   
 layerZeroImplementationWithWorldId:
@@ -50,11 +53,8 @@ layerZeroImplementationWithWorldId:
  
 		- lzErc20:
 
-
-  			- abstractedAccount:
-
      
-				0x5154440E0c8711264F543A4431C8657fF44A7C40
+			0x5154440E0c8711264F543A4431C8657fF44A7C40
 
    
 		- abstractedAccount:
